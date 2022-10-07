@@ -1,0 +1,12 @@
+*.so
+*.bin
+*.raw
+*.exe
+*.o
+*.obj
+*.lst
+emu/bochs/bios/
+emu/bochs/bochs
+emu/bochs/bximage
+emu/qemu/qemu-system-x86_64
+
