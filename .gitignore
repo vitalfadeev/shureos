@@ -9,4 +9,6 @@ emu/bochs/bios/
 emu/bochs/bochs
 emu/bochs/bximage
 emu/qemu/qemu-system-x86_64
+_/fasm
+_/fasmg
 
